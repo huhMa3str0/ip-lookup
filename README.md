@@ -1,7 +1,5 @@
-# ip
-# ip scanner
-# ip lookup
-# ip info
+Tool For extracts location information from IP address
+
 
 > git clone https://github.com/huhMa3str0/ip-scanner.git
 >
