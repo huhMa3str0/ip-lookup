@@ -11,7 +11,7 @@ def get_ip_info(ip_address):
     return data
 
 def main():
-    """Gets the IP address information and prints it to the console."""
+    """Gets the IP address information and prints it to the console :)"""
     
     ip_address = input("Enter an IP address: ")
 
