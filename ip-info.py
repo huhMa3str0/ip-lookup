@@ -24,6 +24,6 @@ def main():
     print(colored("Postal Code", "red"), "->", colored(ip_info["postal"], "yellow"))
     print(colored("Timezone", "red"), "->", colored(ip_info["timezone"], "yellow"))
     print(colored("Coordinates", "red"), "->", colored(ip_info["loc"], "yellow"))
-    print(colored("By: @Ploxeret Happy H4CK1NG", "blue"))
+    print(colored("By: @huhMa3str0 Happy H4CK1NG", "blue"))
 if __name__ == "__main__":
     main()
